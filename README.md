@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# IoT Foundations: Operating Systems Fundamentals
+This is the repository for the LinkedIn Learning course `IoT Foundations: Operating Systems Fundamentals`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
